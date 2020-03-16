@@ -35,7 +35,7 @@ main{
 .timer__second{
     font-size: 3rem;
     text-align: center;
-    color: white;
+    color: gray;
     border-radius: 50%;
     border: 1px dashed white;
     padding: 2rem;
